@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 180px;
+}
+
+input[type="number"],
+input[type="checkbox"],
+textarea {
+  width: 100px;
+  padding: 5px;
+}
+
+button {
+  padding: 10px;
+}
+
+textarea {
+  height: 50px;
+  resize: none;
+}
